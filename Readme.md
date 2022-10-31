@@ -1,5 +1,6 @@
 ![Spooky's GitHub stats](https://github-readme-stats.vercel.app/api?username=spookyboy2000&show_icons=true&theme=radical)
 
+![AppVeyor](https://img.shields.io/appveyor/build/spookyboy2000/TowerDefense)
 ![visitors]([https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red](https://github.com/spookyboy2000/TowerDefense?page_id=spookyboy2000.TowerDefense))
 
 
